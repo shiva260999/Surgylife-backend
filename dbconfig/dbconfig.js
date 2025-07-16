@@ -5,5 +5,5 @@ mongoose
     console.log("connected");
   })
   .catch((err) => {
-    //console.log("not connected");
+    //console.log("No connection");
   });
